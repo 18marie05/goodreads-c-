@@ -1,0 +1,73 @@
+Title;Author;Status;Genres;TotalPages;Progress;Rating
+The Great Gatsby;F. Scott Fitzgerald;Read;Fiction,Classic;180;180;5
+To Kill a Mockingbird;Harper Lee;Read;Fiction,Classic;281;281;5
+1984;George Orwell;Read;Fiction,Dystopian,Classic;328;328;5
+Moby Dick;Herman Melville;Read;Fiction,Classic;585;585;4
+War and Peace;Leo Tolstoy;Read;Fiction,Classic,Historical;1225;1225;5
+Pride and Prejudice;Jane Austen;CurrentlyReading;Romance,Classic;279;170;4
+The Catcher in the Rye;J.D. Salinger;CurrentlyReading;Fiction,Classic;277;123;3
+Brave New World;Aldous Huxley;Read;Science Fiction,Dystopian;311;311;5
+The Hobbit;J.R.R. Tolkien;Read;Fantasy,Adventure;310;310;5
+The Lord of the Rings;J.R.R. Tolkien;Read;Fantasy,Adventure;1178;1178;5
+The Chronicles of Narnia;C.S. Lewis;Read;Fantasy,Adventure,Children;768;768;5
+Fahrenheit 451;Ray Bradbury;Read;Dystopian,Science Fiction;249;249;4
+The Fault in Our Stars;John Green;Read;Romance,Young Adult;313;313;5
+The Hunger Games;Suzanne Collins;Read;Science Fiction,Dystopian;374;374;4
+The Catcher in the Rye;J.D. Salinger;Read;Fiction,Classic;277;277;3
+The Alchemist;Paulo Coelho;Read;Fiction,Adventure,Classic;208;208;4
+Sapiens: A Brief History of Humankind;Yuval Noah Harari;Read;Non Fiction,History;443;443;5
+Educated;Tara Westover;Read;Memoir,Non Fiction;352;352;5
+Becoming;Michelle Obama;Read;Biography,Non Fiction;448;448;4
+Atomic Habits;James Clear;Read;Self Help;319;319;5
+The Power of Habit;Charles Duhigg;Read;Self Help;371;371;5
+The Secret;Rhonda Byrne;Read;Self Help;198;198;3
+You Are a Badass;Jen Sincero;Read;Self Help;269;269;4
+The Subtle Art of Not Giving a F*ck;Mark Manson;Read;Self Help;224;224;4
+The 7 Habits of Highly Effective People;Stephen Covey;Read;Self Help;381;381;5
+The Art of Happiness;Dalai Lama;Read;Self Help,Non Fiction;392;392;5
+Quiet: The Power of Introverts;Susan Cain;Read;Psychology,Non Fiction;368;368;5
+The Design of Everyday Things;Don Norman;Read;Non Fiction,Design;380;380;4
+The Lean Startup;Eric Ries;Read;Business,Non Fiction;336;336;5
+Good to Great;Jim Collins;Read;Business,Non Fiction;300;300;5
+Start with Why;Simon Sinek;Read;Business,Non Fiction;256;256;4
+Daring Greatly;Brene Brown;Read;Self Help,Psychology;320;320;5
+The Untethered Soul;Michael A. Singer;Read;Self Help;200;200;4
+Start with Why;Simon Sinek;Read;Business,Non Fiction;256;256;4
+The Little Prince;Antoine de Saint-Exupéry;WantToRead;Fiction,Classic,Children;96;0;
+The Night Circus;Erin Morgenstern;WantToRead;Fantasy,Romance;387;0;
+Harry Potter and the Sorcerer's Stone;J.K. Rowling;WantToRead;Fantasy,Young Adult;309;0;
+The Help;Kathryn Stockett;WantToRead;Historical Fiction,Drama;444;0;
+The Girl on the Train;Paula Hawkins;WantToRead;Thriller,Mystery;395;0;
+Gone Girl;Gillian Flynn;WantToRead;Thriller,Mystery;399;0;
+The Shining;Stephen King;WantToRead;Horror,Thriller;447;0;
+It;Stephen King;WantToRead;Horror,Thriller;1138;0;
+The Silent Patient;Alex Michaelides;WantToRead;Thriller,Mystery;325;0;
+Sharp Objects;Gillian Flynn;WantToRead;Thriller,Mystery;254;0;
+Big Little Lies;Liane Moriarty;WantToRead;Drama,Mystery;460;0;
+The Girl with the Dragon Tattoo;Stieg Larsson;WantToRead;Mystery,Thriller;465;0;
+The Hound of the Baskervilles;Arthur Conan Doyle;WantToRead;Mystery,Detective;221;0;
+The Murder of Roger Ackroyd;Agatha Christie;WantToRead;Mystery,Detective;302;0;
+Sherlock Holmes: The Complete Collection;Arthur Conan Doyle;WantToRead;Mystery,Detective;400;0;
+And Then There Were None;Agatha Christie;WantToRead;Mystery,Thriller;264;0;
+The Godfather;Mario Puzo;WantToRead;Crime,Fiction;448;0;
+The Secret History;Donna Tartt;WantToRead;Mystery,Fiction;559;0;
+The Outsiders;S.E. Hinton;WantToRead;Fiction,Young Adult;180;0;
+The Maze Runner;James Dashner;WantToRead;Science Fiction,Dystopian;374;0;
+The Martian;Andy Weir;WantToRead;Science Fiction,Thriller;369;0;
+Fahrenheit 451;Ray Bradbury;WantToRead;Science Fiction,Dystopian;249;0;
+A Wrinkle in Time;Madeleine L'Engle;WantToRead;Fantasy,Science Fiction;211;0;
+The Handmaid's Tale;Margaret Atwood;WantToRead;Dystopian,Science Fiction;311;0;
+Slaughterhouse-Five;Kurt Vonnegut;WantToRead;Science Fiction,War;275;0;
+Neuromancer;William Gibson;WantToRead;Science Fiction,Cyberpunk;271;0;
+The Invisible Man;H.G. Wells;WantToRead;Science Fiction,Classic;218;0;
+The Road;Cormac McCarthy;WantToRead;Science Fiction,Dystopian;287;0;
+Catch-22;Joseph Heller;WantToRead;War,Classic;453;0;
+The Guns of August;Barbara W. Tuchman;WantToRead;History,Non Fiction;511;0;
+The Diary of a Young Girl;Anne Frank;WantToRead;History,Biography;283;0;
+The Wright Brothers;David McCullough;WantToRead;Biography,History;320;0;
+The Immortal Life of Henrietta Lacks;Rebecca Skloot;WantToRead;Biography,Non Fiction;381;0;
+Into the Wild;Jon Krakauer;WantToRead;Biography,Non Fiction;207;0;
+Unbroken;Laura Hillenbrand;WantToRead;Biography,History;498;0;
+The Glass Castle;Jeannette Walls;WantToRead;Memoir,Biography;288;0;
+When Breath Becomes Air;Paul Kalanithi;WantToRead;Memoir,Non Fiction;228;0;
+Twisted Love;Ana Huang;WantToRead;Romance;354;0;

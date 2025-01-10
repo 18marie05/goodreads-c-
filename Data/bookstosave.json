@@ -1,0 +1,996 @@
+[
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Status": 2,
+    "Genres": [
+      "Fiction,Classic"
+    ],
+    "TotalPages": 180,
+    "CurrentPage": 180,
+    "Rating": 5,
+    "Summary": "The Great Gatsby par F. Scott Fitzgerald - Read (180/180 pages lues) - 5",
+    "DisplayGenres": "Fiction,Classic",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Status": 2,
+    "Genres": [
+      "Fiction,Classic"
+    ],
+    "TotalPages": 281,
+    "CurrentPage": 281,
+    "Rating": 5,
+    "Summary": "To Kill a Mockingbird par Harper Lee - Read (281/281 pages lues) - 5",
+    "DisplayGenres": "Fiction,Classic",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Status": 2,
+    "Genres": [
+      "Fiction,Dystopian,Classic"
+    ],
+    "TotalPages": 328,
+    "CurrentPage": 328,
+    "Rating": 5,
+    "Summary": "1984 par George Orwell - Read (328/328 pages lues) - 5",
+    "DisplayGenres": "Fiction,Dystopian,Classic",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "Moby Dick",
+    "Author": "Herman Melville",
+    "Status": 2,
+    "Genres": [
+      "Fiction,Classic"
+    ],
+    "TotalPages": 585,
+    "CurrentPage": 585,
+    "Rating": 4,
+    "Summary": "Moby Dick par Herman Melville - Read (585/585 pages lues) - 4",
+    "DisplayGenres": "Fiction,Classic",
+    "DisplayRating": "4"
+  },
+  {
+    "Title": "War and Peace",
+    "Author": "Leo Tolstoy",
+    "Status": 2,
+    "Genres": [
+      "Fiction,Classic,Historical"
+    ],
+    "TotalPages": 1225,
+    "CurrentPage": 1225,
+    "Rating": 5,
+    "Summary": "War and Peace par Leo Tolstoy - Read (1225/1225 pages lues) - 5",
+    "DisplayGenres": "Fiction,Classic,Historical",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Status": 1,
+    "Genres": [
+      "Romance,Classic"
+    ],
+    "TotalPages": 279,
+    "CurrentPage": 170,
+    "Rating": 4,
+    "Summary": "Pride and Prejudice par Jane Austen - CurrentlyReading (170/279 pages lues) - 4",
+    "DisplayGenres": "Romance,Classic",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "Status": 1,
+    "Genres": [
+      "Fiction,Classic"
+    ],
+    "TotalPages": 277,
+    "CurrentPage": 123,
+    "Rating": 3,
+    "Summary": "The Catcher in the Rye par J.D. Salinger - CurrentlyReading (123/277 pages lues) - 3",
+    "DisplayGenres": "Fiction,Classic",
+    "DisplayRating": null
+  },
+  {
+    "Title": "Brave New World",
+    "Author": "Aldous Huxley",
+    "Status": 2,
+    "Genres": [
+      "Science Fiction,Dystopian"
+    ],
+    "TotalPages": 311,
+    "CurrentPage": 311,
+    "Rating": 5,
+    "Summary": "Brave New World par Aldous Huxley - Read (311/311 pages lues) - 5",
+    "DisplayGenres": "Science Fiction,Dystopian",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "Status": 2,
+    "Genres": [
+      "Fantasy,Adventure"
+    ],
+    "TotalPages": 310,
+    "CurrentPage": 310,
+    "Rating": 5,
+    "Summary": "The Hobbit par J.R.R. Tolkien - Read (310/310 pages lues) - 5",
+    "DisplayGenres": "Fantasy,Adventure",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "The Lord of the Rings",
+    "Author": "J.R.R. Tolkien",
+    "Status": 2,
+    "Genres": [
+      "Fantasy,Adventure"
+    ],
+    "TotalPages": 1178,
+    "CurrentPage": 1178,
+    "Rating": 5,
+    "Summary": "The Lord of the Rings par J.R.R. Tolkien - Read (1178/1178 pages lues) - 5",
+    "DisplayGenres": "Fantasy,Adventure",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "The Chronicles of Narnia",
+    "Author": "C.S. Lewis",
+    "Status": 2,
+    "Genres": [
+      "Fantasy,Adventure,Children"
+    ],
+    "TotalPages": 768,
+    "CurrentPage": 768,
+    "Rating": 5,
+    "Summary": "The Chronicles of Narnia par C.S. Lewis - Read (768/768 pages lues) - 5",
+    "DisplayGenres": "Fantasy,Adventure,Children",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "Fahrenheit 451",
+    "Author": "Ray Bradbury",
+    "Status": 2,
+    "Genres": [
+      "Dystopian,Science Fiction"
+    ],
+    "TotalPages": 249,
+    "CurrentPage": 249,
+    "Rating": 4,
+    "Summary": "Fahrenheit 451 par Ray Bradbury - Read (249/249 pages lues) - 4",
+    "DisplayGenres": "Dystopian,Science Fiction",
+    "DisplayRating": "4"
+  },
+  {
+    "Title": "The Fault in Our Stars",
+    "Author": "John Green",
+    "Status": 2,
+    "Genres": [
+      "Romance,Young Adult"
+    ],
+    "TotalPages": 313,
+    "CurrentPage": 313,
+    "Rating": 5,
+    "Summary": "The Fault in Our Stars par John Green - Read (313/313 pages lues) - 5",
+    "DisplayGenres": "Romance,Young Adult",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "The Hunger Games",
+    "Author": "Suzanne Collins",
+    "Status": 2,
+    "Genres": [
+      "Science Fiction,Dystopian"
+    ],
+    "TotalPages": 374,
+    "CurrentPage": 374,
+    "Rating": 4,
+    "Summary": "The Hunger Games par Suzanne Collins - Read (374/374 pages lues) - 4",
+    "DisplayGenres": "Science Fiction,Dystopian",
+    "DisplayRating": "4"
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "Status": 2,
+    "Genres": [
+      "Fiction,Classic"
+    ],
+    "TotalPages": 277,
+    "CurrentPage": 277,
+    "Rating": 3,
+    "Summary": "The Catcher in the Rye par J.D. Salinger - Read (277/277 pages lues) - 3",
+    "DisplayGenres": "Fiction,Classic",
+    "DisplayRating": "3"
+  },
+  {
+    "Title": "The Alchemist",
+    "Author": "Paulo Coelho",
+    "Status": 2,
+    "Genres": [
+      "Fiction,Adventure,Classic"
+    ],
+    "TotalPages": 208,
+    "CurrentPage": 208,
+    "Rating": 4,
+    "Summary": "The Alchemist par Paulo Coelho - Read (208/208 pages lues) - 4",
+    "DisplayGenres": "Fiction,Adventure,Classic",
+    "DisplayRating": "4"
+  },
+  {
+    "Title": "Sapiens: A Brief History of Humankind",
+    "Author": "Yuval Noah Harari",
+    "Status": 2,
+    "Genres": [
+      "Non Fiction,History"
+    ],
+    "TotalPages": 443,
+    "CurrentPage": 443,
+    "Rating": 5,
+    "Summary": "Sapiens: A Brief History of Humankind par Yuval Noah Harari - Read (443/443 pages lues) - 5",
+    "DisplayGenres": "Non Fiction,History",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "Educated",
+    "Author": "Tara Westover",
+    "Status": 2,
+    "Genres": [
+      "Memoir,Non Fiction"
+    ],
+    "TotalPages": 352,
+    "CurrentPage": 352,
+    "Rating": 5,
+    "Summary": "Educated par Tara Westover - Read (352/352 pages lues) - 5",
+    "DisplayGenres": "Memoir,Non Fiction",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "Becoming",
+    "Author": "Michelle Obama",
+    "Status": 2,
+    "Genres": [
+      "Biography,Non Fiction"
+    ],
+    "TotalPages": 448,
+    "CurrentPage": 448,
+    "Rating": 4,
+    "Summary": "Becoming par Michelle Obama - Read (448/448 pages lues) - 4",
+    "DisplayGenres": "Biography,Non Fiction",
+    "DisplayRating": "4"
+  },
+  {
+    "Title": "Atomic Habits",
+    "Author": "James Clear",
+    "Status": 2,
+    "Genres": [
+      "Self Help"
+    ],
+    "TotalPages": 319,
+    "CurrentPage": 319,
+    "Rating": 5,
+    "Summary": "Atomic Habits par James Clear - Read (319/319 pages lues) - 5",
+    "DisplayGenres": "Self Help",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "The Power of Habit",
+    "Author": "Charles Duhigg",
+    "Status": 2,
+    "Genres": [
+      "Self Help"
+    ],
+    "TotalPages": 371,
+    "CurrentPage": 371,
+    "Rating": 5,
+    "Summary": "The Power of Habit par Charles Duhigg - Read (371/371 pages lues) - 5",
+    "DisplayGenres": "Self Help",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "The Secret",
+    "Author": "Rhonda Byrne",
+    "Status": 2,
+    "Genres": [
+      "Self Help"
+    ],
+    "TotalPages": 198,
+    "CurrentPage": 198,
+    "Rating": 3,
+    "Summary": "The Secret par Rhonda Byrne - Read (198/198 pages lues) - 3",
+    "DisplayGenres": "Self Help",
+    "DisplayRating": "3"
+  },
+  {
+    "Title": "You Are a Badass",
+    "Author": "Jen Sincero",
+    "Status": 2,
+    "Genres": [
+      "Self Help"
+    ],
+    "TotalPages": 269,
+    "CurrentPage": 269,
+    "Rating": 4,
+    "Summary": "You Are a Badass par Jen Sincero - Read (269/269 pages lues) - 4",
+    "DisplayGenres": "Self Help",
+    "DisplayRating": "4"
+  },
+  {
+    "Title": "The Subtle Art of Not Giving a F*ck",
+    "Author": "Mark Manson",
+    "Status": 2,
+    "Genres": [
+      "Self Help"
+    ],
+    "TotalPages": 224,
+    "CurrentPage": 224,
+    "Rating": 4,
+    "Summary": "The Subtle Art of Not Giving a F*ck par Mark Manson - Read (224/224 pages lues) - 4",
+    "DisplayGenres": "Self Help",
+    "DisplayRating": "4"
+  },
+  {
+    "Title": "The 7 Habits of Highly Effective People",
+    "Author": "Stephen Covey",
+    "Status": 2,
+    "Genres": [
+      "Self Help"
+    ],
+    "TotalPages": 381,
+    "CurrentPage": 381,
+    "Rating": 5,
+    "Summary": "The 7 Habits of Highly Effective People par Stephen Covey - Read (381/381 pages lues) - 5",
+    "DisplayGenres": "Self Help",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "Quiet: The Power of Introverts",
+    "Author": "Susan Cain",
+    "Status": 2,
+    "Genres": [
+      "Psychology,Non Fiction"
+    ],
+    "TotalPages": 368,
+    "CurrentPage": 368,
+    "Rating": 5,
+    "Summary": "Quiet: The Power of Introverts par Susan Cain - Read (368/368 pages lues) - 5",
+    "DisplayGenres": "Psychology,Non Fiction",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "The Design of Everyday Things",
+    "Author": "Don Norman",
+    "Status": 2,
+    "Genres": [
+      "Non Fiction,Design"
+    ],
+    "TotalPages": 380,
+    "CurrentPage": 380,
+    "Rating": 4,
+    "Summary": "The Design of Everyday Things par Don Norman - Read (380/380 pages lues) - 4",
+    "DisplayGenres": "Non Fiction,Design",
+    "DisplayRating": "4"
+  },
+  {
+    "Title": "The Lean Startup",
+    "Author": "Eric Ries",
+    "Status": 2,
+    "Genres": [
+      "Business,Non Fiction"
+    ],
+    "TotalPages": 336,
+    "CurrentPage": 336,
+    "Rating": 5,
+    "Summary": "The Lean Startup par Eric Ries - Read (336/336 pages lues) - 5",
+    "DisplayGenres": "Business,Non Fiction",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "Good to Great",
+    "Author": "Jim Collins",
+    "Status": 2,
+    "Genres": [
+      "Business,Non Fiction"
+    ],
+    "TotalPages": 300,
+    "CurrentPage": 300,
+    "Rating": 5,
+    "Summary": "Good to Great par Jim Collins - Read (300/300 pages lues) - 5",
+    "DisplayGenres": "Business,Non Fiction",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "Start with Why",
+    "Author": "Simon Sinek",
+    "Status": 2,
+    "Genres": [
+      "Business,Non Fiction"
+    ],
+    "TotalPages": 256,
+    "CurrentPage": 256,
+    "Rating": 4,
+    "Summary": "Start with Why par Simon Sinek - Read (256/256 pages lues) - 4",
+    "DisplayGenres": "Business,Non Fiction",
+    "DisplayRating": "4"
+  },
+  {
+    "Title": "Daring Greatly",
+    "Author": "Brene Brown",
+    "Status": 2,
+    "Genres": [
+      "Self Help,Psychology"
+    ],
+    "TotalPages": 320,
+    "CurrentPage": 320,
+    "Rating": 5,
+    "Summary": "Daring Greatly par Brene Brown - Read (320/320 pages lues) - 5",
+    "DisplayGenres": "Self Help,Psychology",
+    "DisplayRating": "5"
+  },
+  {
+    "Title": "The Untethered Soul",
+    "Author": "Michael A. Singer",
+    "Status": 2,
+    "Genres": [
+      "Self Help"
+    ],
+    "TotalPages": 200,
+    "CurrentPage": 200,
+    "Rating": 4,
+    "Summary": "The Untethered Soul par Michael A. Singer - Read (200/200 pages lues) - 4",
+    "DisplayGenres": "Self Help",
+    "DisplayRating": "4"
+  },
+  {
+    "Title": "Start with Why",
+    "Author": "Simon Sinek",
+    "Status": 2,
+    "Genres": [
+      "Business,Non Fiction"
+    ],
+    "TotalPages": 256,
+    "CurrentPage": 256,
+    "Rating": 4,
+    "Summary": "Start with Why par Simon Sinek - Read (256/256 pages lues) - 4",
+    "DisplayGenres": "Business,Non Fiction",
+    "DisplayRating": "4"
+  },
+  {
+    "Title": "The Little Prince",
+    "Author": "Antoine de Saint-Exupéry",
+    "Status": 0,
+    "Genres": [
+      "Fiction,Classic,Children"
+    ],
+    "TotalPages": 96,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Little Prince par Antoine de Saint-Exupéry - WantToRead (0/96 pages lues) - ",
+    "DisplayGenres": "Fiction,Classic,Children",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Night Circus",
+    "Author": "Erin Morgenstern",
+    "Status": 0,
+    "Genres": [
+      "Fantasy,Romance"
+    ],
+    "TotalPages": 387,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Night Circus par Erin Morgenstern - WantToRead (0/387 pages lues) - ",
+    "DisplayGenres": "Fantasy,Romance",
+    "DisplayRating": null
+  },
+  {
+    "Title": "Harry Potter and the Sorcerer\u0027s Stone",
+    "Author": "J.K. Rowling",
+    "Status": 0,
+    "Genres": [
+      "Fantasy,Young Adult"
+    ],
+    "TotalPages": 309,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "Harry Potter and the Sorcerer\u0027s Stone par J.K. Rowling - WantToRead (0/309 pages lues) - ",
+    "DisplayGenres": "Fantasy,Young Adult",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Help",
+    "Author": "Kathryn Stockett",
+    "Status": 0,
+    "Genres": [
+      "Historical Fiction,Drama"
+    ],
+    "TotalPages": 444,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Help par Kathryn Stockett - WantToRead (0/444 pages lues) - ",
+    "DisplayGenres": "Historical Fiction,Drama",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Girl on the Train",
+    "Author": "Paula Hawkins",
+    "Status": 0,
+    "Genres": [
+      "Thriller,Mystery"
+    ],
+    "TotalPages": 395,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Girl on the Train par Paula Hawkins - WantToRead (0/395 pages lues) - ",
+    "DisplayGenres": "Thriller,Mystery",
+    "DisplayRating": null
+  },
+  {
+    "Title": "Gone Girl",
+    "Author": "Gillian Flynn",
+    "Status": 0,
+    "Genres": [
+      "Thriller,Mystery"
+    ],
+    "TotalPages": 399,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "Gone Girl par Gillian Flynn - WantToRead (0/399 pages lues) - ",
+    "DisplayGenres": "Thriller,Mystery",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Shining",
+    "Author": "Stephen King",
+    "Status": 0,
+    "Genres": [
+      "Horror,Thriller"
+    ],
+    "TotalPages": 447,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Shining par Stephen King - WantToRead (0/447 pages lues) - ",
+    "DisplayGenres": "Horror,Thriller",
+    "DisplayRating": null
+  },
+  {
+    "Title": "It",
+    "Author": "Stephen King",
+    "Status": 0,
+    "Genres": [
+      "Horror,Thriller"
+    ],
+    "TotalPages": 1138,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "It par Stephen King - WantToRead (0/1138 pages lues) - ",
+    "DisplayGenres": "Horror,Thriller",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Silent Patient",
+    "Author": "Alex Michaelides",
+    "Status": 0,
+    "Genres": [
+      "Thriller,Mystery"
+    ],
+    "TotalPages": 325,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Silent Patient par Alex Michaelides - WantToRead (0/325 pages lues) - ",
+    "DisplayGenres": "Thriller,Mystery",
+    "DisplayRating": null
+  },
+  {
+    "Title": "Sharp Objects",
+    "Author": "Gillian Flynn",
+    "Status": 0,
+    "Genres": [
+      "Thriller,Mystery"
+    ],
+    "TotalPages": 254,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "Sharp Objects par Gillian Flynn - WantToRead (0/254 pages lues) - ",
+    "DisplayGenres": "Thriller,Mystery",
+    "DisplayRating": null
+  },
+  {
+    "Title": "Big Little Lies",
+    "Author": "Liane Moriarty",
+    "Status": 0,
+    "Genres": [
+      "Drama,Mystery"
+    ],
+    "TotalPages": 460,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "Big Little Lies par Liane Moriarty - WantToRead (0/460 pages lues) - ",
+    "DisplayGenres": "Drama,Mystery",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Girl with the Dragon Tattoo",
+    "Author": "Stieg Larsson",
+    "Status": 0,
+    "Genres": [
+      "Mystery,Thriller"
+    ],
+    "TotalPages": 465,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Girl with the Dragon Tattoo par Stieg Larsson - WantToRead (0/465 pages lues) - ",
+    "DisplayGenres": "Mystery,Thriller",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Hound of the Baskervilles",
+    "Author": "Arthur Conan Doyle",
+    "Status": 0,
+    "Genres": [
+      "Mystery,Detective"
+    ],
+    "TotalPages": 221,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Hound of the Baskervilles par Arthur Conan Doyle - WantToRead (0/221 pages lues) - ",
+    "DisplayGenres": "Mystery,Detective",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Murder of Roger Ackroyd",
+    "Author": "Agatha Christie",
+    "Status": 0,
+    "Genres": [
+      "Mystery,Detective"
+    ],
+    "TotalPages": 302,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Murder of Roger Ackroyd par Agatha Christie - WantToRead (0/302 pages lues) - ",
+    "DisplayGenres": "Mystery,Detective",
+    "DisplayRating": null
+  },
+  {
+    "Title": "Sherlock Holmes: The Complete Collection",
+    "Author": "Arthur Conan Doyle",
+    "Status": 0,
+    "Genres": [
+      "Mystery,Detective"
+    ],
+    "TotalPages": 400,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "Sherlock Holmes: The Complete Collection par Arthur Conan Doyle - WantToRead (0/400 pages lues) - ",
+    "DisplayGenres": "Mystery,Detective",
+    "DisplayRating": null
+  },
+  {
+    "Title": "And Then There Were None",
+    "Author": "Agatha Christie",
+    "Status": 0,
+    "Genres": [
+      "Mystery,Thriller"
+    ],
+    "TotalPages": 264,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "And Then There Were None par Agatha Christie - WantToRead (0/264 pages lues) - ",
+    "DisplayGenres": "Mystery,Thriller",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Godfather",
+    "Author": "Mario Puzo",
+    "Status": 0,
+    "Genres": [
+      "Crime,Fiction"
+    ],
+    "TotalPages": 448,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Godfather par Mario Puzo - WantToRead (0/448 pages lues) - ",
+    "DisplayGenres": "Crime,Fiction",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Secret History",
+    "Author": "Donna Tartt",
+    "Status": 0,
+    "Genres": [
+      "Mystery,Fiction"
+    ],
+    "TotalPages": 559,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Secret History par Donna Tartt - WantToRead (0/559 pages lues) - ",
+    "DisplayGenres": "Mystery,Fiction",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Outsiders",
+    "Author": "S.E. Hinton",
+    "Status": 0,
+    "Genres": [
+      "Fiction,Young Adult"
+    ],
+    "TotalPages": 180,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Outsiders par S.E. Hinton - WantToRead (0/180 pages lues) - ",
+    "DisplayGenres": "Fiction,Young Adult",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Maze Runner",
+    "Author": "James Dashner",
+    "Status": 0,
+    "Genres": [
+      "Science Fiction,Dystopian"
+    ],
+    "TotalPages": 374,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Maze Runner par James Dashner - WantToRead (0/374 pages lues) - ",
+    "DisplayGenres": "Science Fiction,Dystopian",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Martian",
+    "Author": "Andy Weir",
+    "Status": 0,
+    "Genres": [
+      "Science Fiction,Thriller"
+    ],
+    "TotalPages": 369,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Martian par Andy Weir - WantToRead (0/369 pages lues) - ",
+    "DisplayGenres": "Science Fiction,Thriller",
+    "DisplayRating": null
+  },
+  {
+    "Title": "Fahrenheit 451",
+    "Author": "Ray Bradbury",
+    "Status": 0,
+    "Genres": [
+      "Science Fiction,Dystopian"
+    ],
+    "TotalPages": 249,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "Fahrenheit 451 par Ray Bradbury - WantToRead (0/249 pages lues) - ",
+    "DisplayGenres": "Science Fiction,Dystopian",
+    "DisplayRating": null
+  },
+  {
+    "Title": "A Wrinkle in Time",
+    "Author": "Madeleine L\u0027Engle",
+    "Status": 0,
+    "Genres": [
+      "Fantasy,Science Fiction"
+    ],
+    "TotalPages": 211,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "A Wrinkle in Time par Madeleine L\u0027Engle - WantToRead (0/211 pages lues) - ",
+    "DisplayGenres": "Fantasy,Science Fiction",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Handmaid\u0027s Tale",
+    "Author": "Margaret Atwood",
+    "Status": 0,
+    "Genres": [
+      "Dystopian,Science Fiction"
+    ],
+    "TotalPages": 311,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Handmaid\u0027s Tale par Margaret Atwood - WantToRead (0/311 pages lues) - ",
+    "DisplayGenres": "Dystopian,Science Fiction",
+    "DisplayRating": null
+  },
+  {
+    "Title": "Slaughterhouse-Five",
+    "Author": "Kurt Vonnegut",
+    "Status": 0,
+    "Genres": [
+      "Science Fiction,War"
+    ],
+    "TotalPages": 275,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "Slaughterhouse-Five par Kurt Vonnegut - WantToRead (0/275 pages lues) - ",
+    "DisplayGenres": "Science Fiction,War",
+    "DisplayRating": null
+  },
+  {
+    "Title": "Neuromancer",
+    "Author": "William Gibson",
+    "Status": 0,
+    "Genres": [
+      "Science Fiction,Cyberpunk"
+    ],
+    "TotalPages": 271,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "Neuromancer par William Gibson - WantToRead (0/271 pages lues) - ",
+    "DisplayGenres": "Science Fiction,Cyberpunk",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Invisible Man",
+    "Author": "H.G. Wells",
+    "Status": 0,
+    "Genres": [
+      "Science Fiction,Classic"
+    ],
+    "TotalPages": 218,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Invisible Man par H.G. Wells - WantToRead (0/218 pages lues) - ",
+    "DisplayGenres": "Science Fiction,Classic",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Road",
+    "Author": "Cormac McCarthy",
+    "Status": 0,
+    "Genres": [
+      "Science Fiction,Dystopian"
+    ],
+    "TotalPages": 287,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Road par Cormac McCarthy - WantToRead (0/287 pages lues) - ",
+    "DisplayGenres": "Science Fiction,Dystopian",
+    "DisplayRating": null
+  },
+  {
+    "Title": "Catch-22",
+    "Author": "Joseph Heller",
+    "Status": 0,
+    "Genres": [
+      "War,Classic"
+    ],
+    "TotalPages": 453,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "Catch-22 par Joseph Heller - WantToRead (0/453 pages lues) - ",
+    "DisplayGenres": "War,Classic",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Guns of August",
+    "Author": "Barbara W. Tuchman",
+    "Status": 0,
+    "Genres": [
+      "History,Non Fiction"
+    ],
+    "TotalPages": 511,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Guns of August par Barbara W. Tuchman - WantToRead (0/511 pages lues) - ",
+    "DisplayGenres": "History,Non Fiction",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Diary of a Young Girl",
+    "Author": "Anne Frank",
+    "Status": 0,
+    "Genres": [
+      "History,Biography"
+    ],
+    "TotalPages": 283,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Diary of a Young Girl par Anne Frank - WantToRead (0/283 pages lues) - ",
+    "DisplayGenres": "History,Biography",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Wright Brothers",
+    "Author": "David McCullough",
+    "Status": 0,
+    "Genres": [
+      "Biography,History"
+    ],
+    "TotalPages": 320,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Wright Brothers par David McCullough - WantToRead (0/320 pages lues) - ",
+    "DisplayGenres": "Biography,History",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Immortal Life of Henrietta Lacks",
+    "Author": "Rebecca Skloot",
+    "Status": 0,
+    "Genres": [
+      "Biography,Non Fiction"
+    ],
+    "TotalPages": 381,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Immortal Life of Henrietta Lacks par Rebecca Skloot - WantToRead (0/381 pages lues) - ",
+    "DisplayGenres": "Biography,Non Fiction",
+    "DisplayRating": null
+  },
+  {
+    "Title": "Into the Wild",
+    "Author": "Jon Krakauer",
+    "Status": 0,
+    "Genres": [
+      "Biography,Non Fiction"
+    ],
+    "TotalPages": 207,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "Into the Wild par Jon Krakauer - WantToRead (0/207 pages lues) - ",
+    "DisplayGenres": "Biography,Non Fiction",
+    "DisplayRating": null
+  },
+  {
+    "Title": "Unbroken",
+    "Author": "Laura Hillenbrand",
+    "Status": 0,
+    "Genres": [
+      "Biography,History"
+    ],
+    "TotalPages": 498,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "Unbroken par Laura Hillenbrand - WantToRead (0/498 pages lues) - ",
+    "DisplayGenres": "Biography,History",
+    "DisplayRating": null
+  },
+  {
+    "Title": "The Glass Castle",
+    "Author": "Jeannette Walls",
+    "Status": 0,
+    "Genres": [
+      "Memoir,Biography"
+    ],
+    "TotalPages": 288,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "The Glass Castle par Jeannette Walls - WantToRead (0/288 pages lues) - ",
+    "DisplayGenres": "Memoir,Biography",
+    "DisplayRating": null
+  },
+  {
+    "Title": "When Breath Becomes Air",
+    "Author": "Paul Kalanithi",
+    "Status": 0,
+    "Genres": [
+      "Memoir,Non Fiction"
+    ],
+    "TotalPages": 228,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "When Breath Becomes Air par Paul Kalanithi - WantToRead (0/228 pages lues) - ",
+    "DisplayGenres": "Memoir,Non Fiction",
+    "DisplayRating": null
+  },
+  {
+    "Title": "Twisted Love",
+    "Author": "Ana Huang",
+    "Status": 0,
+    "Genres": [
+      "Romance"
+    ],
+    "TotalPages": 354,
+    "CurrentPage": 0,
+    "Rating": null,
+    "Summary": "Twisted Love par Ana Huang - WantToRead (0/354 pages lues) - ",
+    "DisplayGenres": "Romance",
+    "DisplayRating": null
+  }
+]
